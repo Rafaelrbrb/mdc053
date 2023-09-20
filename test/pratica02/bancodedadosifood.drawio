@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T22:27:10.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2C2WMVNtZF0Su0hhzYDm" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T22:28:36.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-1FYKIEbcKxCKe6ifo-0" version="21.8.0" type="github">
   <diagram name="Página-1" id="GQ1iokWplIx3vgtv8C1u">
     <mxGraphModel dx="1114" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -556,7 +556,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TmRVu0Wx_0IjWmSM-wcC-190" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="TmRVu0Wx_0IjWmSM-wcC-188" vertex="1">
+        <mxCell id="TmRVu0Wx_0IjWmSM-wcC-190" value="Data da entrega" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="TmRVu0Wx_0IjWmSM-wcC-188" vertex="1">
           <mxGeometry x="30" width="175" height="30" as="geometry">
             <mxRectangle width="175" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -569,7 +569,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TmRVu0Wx_0IjWmSM-wcC-193" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="TmRVu0Wx_0IjWmSM-wcC-191" vertex="1">
+        <mxCell id="TmRVu0Wx_0IjWmSM-wcC-193" value="Horário de entrega" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="TmRVu0Wx_0IjWmSM-wcC-191" vertex="1">
           <mxGeometry x="30" width="175" height="30" as="geometry">
             <mxRectangle width="175" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -582,7 +582,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TmRVu0Wx_0IjWmSM-wcC-196" value="Row 3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="TmRVu0Wx_0IjWmSM-wcC-194" vertex="1">
+        <mxCell id="TmRVu0Wx_0IjWmSM-wcC-196" value="Avaliação da entrega" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="TmRVu0Wx_0IjWmSM-wcC-194" vertex="1">
           <mxGeometry x="30" width="175" height="30" as="geometry">
             <mxRectangle width="175" height="30" as="alternateBounds" />
           </mxGeometry>
