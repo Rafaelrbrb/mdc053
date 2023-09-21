@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T03:48:37.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9ePcIP8KGulcsQD4n-aa" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T03:50:42.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Kh5x6slvRf36eN7dOVHe" version="21.8.0" type="github">
   <diagram name="Página-1" id="GQ1iokWplIx3vgtv8C1u">
     <mxGraphModel dx="1114" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -875,7 +875,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0CQocFeMBtIt5fHU_OKN-1" value="Formas de pagamento cliente" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324.5" y="660" width="245.5" height="150.00000000000023" as="geometry" />
+          <mxGeometry x="30" y="710" width="245.5" height="150.00000000000023" as="geometry" />
         </mxCell>
         <mxCell id="0CQocFeMBtIt5fHU_OKN-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="0CQocFeMBtIt5fHU_OKN-1">
           <mxGeometry y="30" width="245.5" height="30" as="geometry" />
@@ -1023,12 +1023,12 @@
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0CQocFeMBtIt5fHU_OKN-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=0.004;exitY=0.042;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.185;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TmRVu0Wx_0IjWmSM-wcC-44" target="0CQocFeMBtIt5fHU_OKN-1">
+        <mxCell id="0CQocFeMBtIt5fHU_OKN-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=-0.017;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.916;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0CQocFeMBtIt5fHU_OKN-1" target="TmRVu0Wx_0IjWmSM-wcC-44">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="310" y="600" as="sourcePoint" />
-            <mxPoint x="280" y="660" as="targetPoint" />
+            <mxPoint x="250" y="600" as="sourcePoint" />
+            <mxPoint x="289.95750000000004" y="863.92" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="420" />
+              <mxPoint x="220.04000000000002" y="629.92" />
             </Array>
           </mxGeometry>
         </mxCell>
