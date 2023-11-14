@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T22:48:26.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VFsaWClTL84LgV2-E1U6" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T22:49:12.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g-pFJ5VCGahB6Bwbrnsg" version="22.1.1" type="github">
   <diagram name="Página-1" id="GQ1iokWplIx3vgtv8C1u">
-    <mxGraphModel dx="2394" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -993,6 +993,12 @@
         </mxCell>
         <mxCell id="qpUGUyCAjyXQ-51cADzg-3" value="Possui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;" vertex="1" parent="1">
           <mxGeometry x="270" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qpUGUyCAjyXQ-51cADzg-4" value="Possui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-71;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qpUGUyCAjyXQ-51cADzg-5" value="Possui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="780" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
